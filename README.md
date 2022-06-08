@@ -3,6 +3,7 @@
 
 Example:
 Go to this [PR](https://github.com/hendaniel/tdd-coverage/pull/1)
+
 Workflow:
 
     name: Reporting unit test coverage
